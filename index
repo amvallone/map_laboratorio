@@ -1,7 +1,8 @@
 <!DOCTYPE html>
+<html lang="es">
 <html>
 <head>
-    
+    <meta charset="UTF-8" />
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
     <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
     <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
@@ -210,7 +211,7 @@
     
             <div class="folium-map" id="map_d5a1b5629eeb2fb9e08e2ca67b9d98c8" ></div>
         
-</body>
+
 <script>
     
     
@@ -651,4 +652,5 @@
             );
         
 </script>
+</body>
 </html>
